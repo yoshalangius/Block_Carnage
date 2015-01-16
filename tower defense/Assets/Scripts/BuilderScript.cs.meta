@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d67461cba0166c34cb32ab6fffe213b5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cannon: {fileID: 131624, guid: 9287f37ba033e2441a78fa96afaeaf2e, type: 2}
+  - autoCannon: {fileID: 155432, guid: 1ba8ae45b04d51343818312d625966bb, type: 2}
+  - rocketTurret: {fileID: 165802, guid: e15b6e1241116dd49960cb95a91f7697, type: 2}
+  - rocketPod: {fileID: 106892, guid: cf2cfa0c2264b7846934f579c102dc67, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
